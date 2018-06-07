@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528379530 source:c:\users\user1\documents\neuralnet\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<assert.h>
+	<cmath>
+
